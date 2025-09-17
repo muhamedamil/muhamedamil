@@ -100,4 +100,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedamil&theme=dark&hide_border=true" alt="GitHub Streak">
 </div>
 
-<img src="https://raw.githubusercontent.com/muhamedamil/muhamedamil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/muhamedamil/muhamedamil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
