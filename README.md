@@ -4,12 +4,13 @@
 <h3 align="center">Passionate AI/ML Engineer | Building Scalable and Intelligent Systems</h3>
 
 <div align="center">  
-    🌱 I’m currently mastering **MLOps** and **Generative AI** <br>
-    🤖 Exploring **LLMs**, **AI Agents**, and **RAG pipelines** <br>
-    👯 Open to collaborating on **AI/ML-driven projects** <br>
-    💬 Ask me about **Machine Learning, Deep Learning, NLP, and MLOps** <br>
-    📫 Reach me at: **muhammedamil122@gmail.com** <br>
+    🌱 I’m currently mastering <b>MLOps</b> and <b>Generative AI</b> <br>
+    🤖 Exploring <b>LLMs</b>, <b>AI Agents</b>, and <b>RAG pipelines</b> <br>
+    👯 Open to collaborating on <b>AI/ML-driven projects</b> <br>
+    💬 Ask me about <b>Machine Learning, Deep Learning, NLP, and MLOps</b> <br>
+    📫 Reach me at: <b>muhammedamil122@gmail.com</b> <br>
 </div>
+
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 300px;margin-right: 60px" alt="">
