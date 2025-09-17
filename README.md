@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" style="width: 100%;">
+<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" style="width: 100%;">
 
 <h1 align="center">Hi 👋, I'm Muhammed Amil</h1>
 <h3 align="center">Passionate AI/ML Engineer | Building Scalable and Intelligent Systems</h3>
@@ -26,6 +26,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
+
 
 <h3 align="center">Skills & Tools:</h3>
 <p align="center">
@@ -88,7 +89,6 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge" alt="FastAPI"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Docker-lightblue?style=for-the-badge" alt="Docker"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/CI/CD-purple?style=for-the-badge" alt="CI/CD"/> </a>
-
 
 </p>
 
