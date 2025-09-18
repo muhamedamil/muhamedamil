@@ -11,7 +11,6 @@
     📫 Reach me at: <b>amilasnils008@gmail.com</b> <br>
 </div>
 
-
 <div align="center">
     <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" style="width: 300px;margin-right: 60px" alt="">
     <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" style="width: 300px;" alt="">
@@ -26,7 +25,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
-
 
 <h3 align="center">Skills & Tools:</h3>
 <p align="center">
@@ -91,7 +89,6 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/CI/CD-purple?style=for-the-badge" alt="CI/CD"/> </a>
 
 </p>
-
 
 
 <div align="center">
