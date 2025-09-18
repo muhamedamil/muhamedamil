@@ -27,7 +27,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Commit & Push Snake
-        uses: EndBug/add-and-commit@v9
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           branch: output
           message: "Update Snake Animation"
