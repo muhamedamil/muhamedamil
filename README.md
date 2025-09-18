@@ -108,5 +108,4 @@
 </div>
 
 
-### 🐍 Snake Animation
 <img src="https://raw.githubusercontent.com/muhamedamil/muhamedamil/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
