@@ -95,10 +95,14 @@
 
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamil&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=muhamedamil&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamedamil&theme=dark&hide_border=true" alt="GitHub Streak">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamedamil&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <br><br>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamedamil&theme=dark&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhamedamil&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<img src="https://raw.githubusercontent.com/muhamedamil/muhamedamil/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
