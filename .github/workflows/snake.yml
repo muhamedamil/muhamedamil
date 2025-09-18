@@ -21,6 +21,11 @@ jobs:
           github_user_name: muhamedamil
           outputs: ./dist/github-contribution-grid-snake.svg
 
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
       - name: Commit & Push Snake
         uses: EndBug/add-and-commit@v9
         with:
