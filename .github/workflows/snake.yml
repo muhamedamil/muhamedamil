@@ -19,7 +19,8 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: muhamedamil
-          outputs: ./dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: dist/github-contribution-grid-snake.gif
 
       - name: Configure Git
         run: |
@@ -29,5 +30,6 @@ jobs:
       - name: Commit & Push Snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          branch: output
+          new_branch: output
           message: "Update Snake Animation"
+          push: true

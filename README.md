@@ -106,3 +106,7 @@
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muhamedamil&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
+
+
+### 🐍 Snake Animation
+<img src="https://raw.githubusercontent.com/muhamedamil/muhamedamil/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
