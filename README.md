@@ -56,21 +56,6 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge" alt="ChromaDB"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/PGVector-lightgreen?style=for-the-badge" alt="PGVector"/> </a>
 
-<!-- Algorithms -->
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Linear_Regression-blue?style=for-the-badge" alt="Linear Regression"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Logistic_Regression-orange?style=for-the-badge" alt="Logistic Regression"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Decision_Trees-green?style=for-the-badge" alt="Decision Trees"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Random_Forest-red?style=for-the-badge" alt="Random Forest"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/XGBoost-purple?style=for-the-badge" alt="XGBoost"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/SVM-blue?style=for-the-badge" alt="SVM"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/DBSCAN-lightblue?style=for-the-badge" alt="DBSCAN"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/K-Means-yellow?style=for-the-badge" alt="K-Means"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/CNN-red?style=for-the-badge" alt="CNN"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/RNN-orange?style=for-the-badge" alt="RNN"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/LSTM-green?style=for-the-badge" alt="LSTM"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/GAN-purple?style=for-the-badge" alt="GAN"/> </a>
-<a href="#" target="_blank"> <img src="https://img.shields.io/badge/Hyperparameter_Tuning-pink?style=for-the-badge" alt="Hyperparameter Tuning"/> </a>
-
 <!-- Data Handling & Programming -->
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge" alt="Python"/> </a>
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge" alt="SQL"/> </a>
